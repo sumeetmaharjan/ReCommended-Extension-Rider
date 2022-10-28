@@ -1,1 +1,1 @@
-# Forked from <img src="Images/Icon.png" width="32" height="32" /> ReCommended Extension for ReSharper [![ReSharper Extension](https://img.shields.io/resharper/v/Prodot.ReCommendedExtension.svg?label=ReSharper%20Extension)](https://plugins.jetbrains.com/plugin/11646-recommended-extension-for-resharper)
+# Forked from [prodot/ReCommended-Extension](https://github.com/prodot/ReCommended-Extension)
